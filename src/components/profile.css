@@ -1,0 +1,30 @@
+.container-top{
+    display: flex;
+    margin: 30px;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+}
+.search{
+    border: none;
+    outline: none;
+    height: 30px;
+    width: 250px;
+    background-color:#fff;
+    margin: 10px;
+    padding: 20px;
+}
+.search:hover{
+    background-color: rgb(230, 228, 228);
+}
+button:hover{
+    width: 80px;
+    height: 40px;
+    background-color: steelblue;
+}
+.display{
+    height: auto;
+    width: 95%;
+    margin: 20px;
+    background-color: rgb(208, 238, 250);
+}

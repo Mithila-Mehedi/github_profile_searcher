@@ -1,0 +1,11 @@
+img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+li{
+    list-style: none;
+    line-height: 35px;
+    display: flex;
+    justify-content: left;
+}

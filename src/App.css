@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+  margin-top: 30px;
+}
+
+h3{
+  margin: 20px;
+  color: darkcyan;
+  text-shadow:0px 5px 5px steelblue;
+}
